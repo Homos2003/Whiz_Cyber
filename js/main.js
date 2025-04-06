@@ -17,6 +17,7 @@ $(document).ready(function () {
     autoplay: true,
     dots: false,
     autoplayTimeout: 5000,
+    autoplayHoverPause : true,
     smartSpeed: 1600,
     responsive: {
       0: {
@@ -40,6 +41,7 @@ $(document).ready(function () {
     autoplay: true,
     dots: false,
     autoplayTimeout: 5000,
+    autoplayHoverPause : true,
     smartSpeed: 1600,
     responsive: {
       0: {
@@ -90,6 +92,7 @@ $(document).ready(function () {
     autoplay: true,
     dots: false,
     autoplayTimeout: 6000,
+    autoplayHoverPause : true,
     smartSpeed: 1600,
   });
 });
